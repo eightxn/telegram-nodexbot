@@ -1,8 +1,8 @@
-const token = "619561733:AAE1s6_fIhci2EyVaDDCP7R3LgGbTrUp_MM";
-const admin = 360806474;
-const options  = {
-	polling: true,
-    request: { proxy: "https://159.65.9.66:3128" }
+const token = "";
+const admin = 360806474;											//AdminID
+const options  = {													//Options
+	polling: true,													//Polling
+    request: { proxy: "https://159.65.9.66:3128" }					//Bot proxy
 };
 function Rand(max, min)
 {
