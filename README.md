@@ -3,3 +3,5 @@ Another telegram bot in Node.JS, which uses node-telegram-bot-api
 #
 
 Lib: https://github.com/yagop/node-telegram-bot-api
+
+Contact monkey coder(me): https://t.me/eightxn
